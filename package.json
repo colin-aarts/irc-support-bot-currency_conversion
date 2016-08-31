@@ -1,0 +1,12 @@
+{
+  "name": "irc-support-bot-currency_conversion",
+  "version": "1.0.0",
+  "description": "Currency conversion plugin for irc-support-bot",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Aarts <hello@colinaarts.com> (http://colinaarts.com)",
+  "license": "UNLICENSE",
+  "private": true
+}
